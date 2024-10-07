@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... projects that needs more than 1 person to maintain.
 - 🤔 I’m looking for help with ... easy integration and portability of various functions and programs between different operating systems.
 - 💬 Ask me about ... anything that is not too personal.
-- 📫 How to reach me: ... through github comments [@axqr](/)
-- 😄 Pronouns: ... `submarine`
+- 📫 How to reach me: ... ping me [@axqr](https://github.com/axqr/axqr/issues/1)
+- 😄 Pronouns: ...  😄 Pronouns
 - ⚡ Fun fact: ... Most "facts" are aren't really facts. They are theories, speculations and gossips.
 
 Since you read README completeley, this small kitty wants to thank you:
